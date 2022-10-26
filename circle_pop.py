@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-
+#this is just a message
 # following: https://liluo.io/games/1c884201-9038-4da4-833f-3dd2d9a44d27
 import pygame
 import random
